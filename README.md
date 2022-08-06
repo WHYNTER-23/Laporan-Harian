@@ -1,5 +1,5 @@
-# Laporan-Harian
-**Laporan harian mbkm studi independen di dicoding academy kampus merdeka**
+# Laporan-Harian-Agustus
+**Laporan harian bulan agustus mbkm studi independen di dicoding academy kampus merdeka**
 ## Senin, 01 Agustus 2022 
 ### Memulai Dasar Pemrograman untuk Menjadi Pengembang Software  
 #### Persiapan Belajar  
@@ -51,3 +51,22 @@
 - Logika Perulangan
 - Pengenalan Javascript
 - Variabel Dalam Javascript
+
+## Sabtu, 06 Agustus 2022  
+### Belajar Dasar Git dengan GitHub  
+#### Studi Kasus Pengalaman Belajar
+- Persiapan Studi Kasus Pengalaman Belajar
+- Membuat Repository Baru
+- Menambahkan Pengalaman Belajar Pertama
+- Menambahkan Kembali Progres Belajar
+- Mengubah Tampilan Menggunakan Format Markdown
+- Tantangan Menambahkan Progres Belajar
+- Melihat History Perubahan
+- Merilis Dokumentasi Pengalaman Belajar
+- Rangkuman Studi Kasus Pengalaman Belajar
+- Kuis Studi Kasus Pengalaman Belajar
+#### Git Branches
+- Pengantar Git Branches
+- Apa itu Branch
+- Latihan Membuat Branch Baru
+- Latihan Melakukan Perpindahan Branch
