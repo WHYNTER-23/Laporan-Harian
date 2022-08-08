@@ -52,6 +52,29 @@
 - Pengenalan Javascript
 - Variabel Dalam Javascript
 
+## Rabu, 03 Agustus 2022  
+### Memulai Dasar Pemrograman untuk Menjadi Pengembang Software   
+#### Mengerti Konsep Dasar Pemprograman  
+- Tipe Data Dalam Javascript  
+- Fungsi Dalam Javascript  
+- Logika Perbandingan  
+- Menggabungkan IF / ELSE Dengan Or  
+- Logika Perulangan Dalam Javascript  
+- Tips Sikap Kerja Untuk Cara Belajar Pemprograman  
+- Rangkuman Mengerti Konsep Dasar Pemprograman  
+- Kuis Mengerti Konsep Dasar Pemprograman  
+#### Modifikasi Aplikasi Perangkat Lunak  
+- Pengantar Modifikasi Aplikasi Perangkat Lunak  
+- Pengenalan HTML  
+- Pengenalan CSS  
+- Studi Kasus Aplikasi Login - Persiapan  
+- Instalasi Visual Studio Code  
+- Studi Kasus Aplikasi Login - Modifikasi Antarmuka Aplikasi Perangkat Lunak  
+- Studi Kasus Aplikasi Login - Modifikasi Fungsionalitas Aplikasi Perangkat Lunak  
+- Tips Sikap Kerja Untuk Meningkatkan Keahlian Belajar Bahasa Pemrograman  
+- Rangkuman Modifikasi Aplikasi Perangkat Lunak  
+- Kuis Modifikasi Aplikasi Perangkat Lunak  
+
 ## Sabtu, 06 Agustus 2022  
 ### Belajar Dasar Git dengan GitHub  
 #### Studi Kasus Pengalaman Belajar
@@ -70,3 +93,14 @@
 - Apa itu Branch
 - Latihan Membuat Branch Baru
 - Latihan Melakukan Perpindahan Branch
+
+## Minggu, 07 Agustus 2022  
+### Istirahat  
+
+## Senin, 08 Agustus 2022  
+### Belajar Dasar Git dengan GitHub  
+#### Git Branches
+- 
+#### Kolaborasi Dengan Tim
+- 
+#### Studi Kasus Kolaborasi Dengan Tim
