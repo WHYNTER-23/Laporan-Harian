@@ -75,6 +75,23 @@
 - Rangkuman Modifikasi Aplikasi Perangkat Lunak  
 - Kuis Modifikasi Aplikasi Perangkat Lunak  
 
+## Kamis, 04 Agustus 2022  
+### Memulai Dasar Pemrograman untuk Menjadi Pengembang Software   
+#### Dokumentasi Pemprograman Dan Pengembangan Aplikasi Perangkat Lunak  
+- 
+#### Penutup  
+- 
+### Belajar Dasar Git dengan GitHub  
+#### Persiapan Belajar
+- 
+
+## Jumat, 05 Agustus 2022  
+### Belajar Dasar Git dengan GitHub  
+#### Git Dan Github  
+- 
+#### Dasar Git  
+- 
+
 ## Sabtu, 06 Agustus 2022  
 ### Belajar Dasar Git dengan GitHub  
 #### Studi Kasus Pengalaman Belajar
@@ -104,3 +121,19 @@
 #### Kolaborasi Dengan Tim
 - 
 #### Studi Kasus Kolaborasi Dengan Tim
+-
+
+## Selasa, 09 Agustus 2022  
+### Belajar Dasar Git dengan GitHub  
+#### Github Sebagai Portfolio  
+- 
+#### Penutup  
+- 
+### Pengenalan ke Logika Pemrograman (Programming Logic 101)  
+#### Persiapan Belajar  
+- Persetujuan Hak Cipta
+- Mekanisme Belajar
+- Forum Diskusi
+- Glosarium
+- Daftar Referensi
+- Latihan Ujian
