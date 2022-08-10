@@ -137,3 +137,7 @@
 - Glosarium
 - Daftar Referensi
 - Latihan Ujian
+
+## Rabu, 10 Agustus 2022  
+### Pengenalan ke Logika Pemrograman (Programming Logic 101)  
+#### Pendahuluan  
