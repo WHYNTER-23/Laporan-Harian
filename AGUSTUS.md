@@ -78,7 +78,18 @@
 ## Kamis, 04 Agustus 2022  
 ### Memulai Dasar Pemrograman untuk Menjadi Pengembang Software   
 #### Dokumentasi Pemprograman Dan Pengembangan Aplikasi Perangkat Lunak  
-- 
+- Pengantar Dokumentasi Pemrograman Dan Pengembangan Aplikasi Perangkat Lunak
+- Apa Itu Pengarsipan Versi Perangkat Lunak
+- Studi Kasus Pengarsipan Versi Perangkat Lunak
+- Pengenalan Style Guide
+- Studi Kasus Menyesuaikan Gaya Penulisan Kode Sesuai Standar
+- Apa Itu Komentar Pada Kode
+- Studi Kasus Menambah Komentar Pada Kode
+- Pengenalan Dokumentasi Teknis Aplikasi
+- Studi Kasus Pembuatan Dokumentasi Teknis Aplikasi
+- Tips Cara Mengomunikasikan Dokumentasi Teknis Aplikasi
+- Rangkuman Dari Dokumentasi Pemprograman Dan Pengembangan Aplikasi Perangkat Lunak  
+- Kuis Dokumentasi Pemprograman Dan Pengembangan Aplikasi Perangkat Lunak  
 #### Penutup  
 - 
 ### Belajar Dasar Git dengan GitHub  
@@ -147,3 +158,7 @@
 #### Gerbang Logika  
 
 #### Pengenalan Dasar Computational Thinking  
+
+## Jumat, 12 Agustus 2022  
+### Pengenalan ke Logika Pemrograman (Programming Logic 101)  
+#### Penutup  
