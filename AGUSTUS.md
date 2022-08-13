@@ -91,10 +91,18 @@
 - Rangkuman Dari Dokumentasi Pemprograman Dan Pengembangan Aplikasi Perangkat Lunak  
 - Kuis Dokumentasi Pemprograman Dan Pengembangan Aplikasi Perangkat Lunak  
 #### Penutup  
-- 
+- Rangkuman Kelas
+- Ujian Akhir  
 ### Belajar Dasar Git dengan GitHub  
 #### Persiapan Belajar
-- 
+- Persetujuan Hak Cipta
+- Prasyarat Kemampuan
+- Prasyarat Tools
+- Mekanisme Belajar
+- Forum Diskusi
+- Glosarium
+- Daftar Referensi
+- Latihan Ujian
 
 ## Jumat, 05 Agustus 2022  
 ### Belajar Dasar Git dengan GitHub  
@@ -162,3 +170,6 @@
 ## Jumat, 12 Agustus 2022  
 ### Pengenalan ke Logika Pemrograman (Programming Logic 101)  
 #### Penutup  
+
+## Sabtu, 13 Agustus 2022  
+### Mengisi Laporan Harian 
