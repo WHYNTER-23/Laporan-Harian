@@ -173,3 +173,7 @@
 
 ## Sabtu, 13 Agustus 2022  
 ### Mengisi Laporan Harian 
+
+## Minggu, 14 Agustus 2022  
+### Istirahat
+
