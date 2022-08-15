@@ -107,9 +107,26 @@
 ## Jumat, 05 Agustus 2022  
 ### Belajar Dasar Git dengan GitHub  
 #### Git Dan Github  
-- 
+- Pengantar Git dan Github
+- Mengenal Git Secara Lebih Dalam
+- Mengenal GitHub Secara Lebih Dalam
+- Latihan Membuat Akun GitHub
+- Latihan Mengeksplorasi Proyek GitHub
+- Latihan Mengenal GitHub Dashboard
+- Notifikasi GitHub
+- Rangkuman Git Dan GitHub
+- Kuis Git Dan GitHub
 #### Dasar Git  
-- 
+- Pengantar Dasar Git
+- Mengenal Perintah Dasar Git Secara Lebih Dalam
+- Mengenal Git Workflow
+- Mengenal Repository
+- Latihan Membuat Repository Baru
+- Latihan Membuat Readme Untuk Repository Baru
+- Latihan Menambahkan File Baru
+- Latihan Mengubah Data Dalam Berkas Main
+- Rangkuman Dasar Git
+- Kuis Dasar Git
 
 ## Sabtu, 06 Agustus 2022  
 ### Belajar Dasar Git dengan GitHub  
@@ -177,3 +194,5 @@
 ## Minggu, 14 Agustus 2022  
 ### Istirahat
 
+## Senin, 15 Agustus 2022  
+### Mengisi Laporan Harian  
