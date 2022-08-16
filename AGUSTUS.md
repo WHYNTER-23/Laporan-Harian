@@ -153,9 +153,18 @@
 ## Senin, 08 Agustus 2022  
 ### Belajar Dasar Git dengan GitHub  
 #### Git Branches
-- 
+- Pengantar Git Branches
+- Apa Itu Branch
+- Latihan Membuat Branch Baru
+- Latihan Melakukan Perpindahan Branch
+- Apa Itu Merge
+- Apa Itu Pull Request
+- Latihan Melakukan Merge
+- Latihan Menyelesaikan Merge Conflict
+- Rangkuman Git Branches
+- Kuis Git Branches
 #### Kolaborasi Dengan Tim
-- 
+- Apa Itu Code Reviews
 #### Studi Kasus Kolaborasi Dengan Tim
 -
 
@@ -196,3 +205,25 @@
 
 ## Senin, 15 Agustus 2022  
 ### Mengisi Laporan Harian  
+
+## Selasa, 16 Agustus 2022  
+### Belajar Dasar Pemrograman Web  
+#### Persiapan Belajar  
+- Persetujuan Hak Cipta
+- Pengenalan Kelas
+#### Pendahuluan
+- Apa itu Website?
+- Server dan Client
+- Anatomi Website
+- Apa yang Akan Kita Pelajari?
+- Requirement Tools
+- Kuis Sub-modul Pendahuluan
+#### Pengenalan HTML
+- Pengenalan ke HTML
+- Membuat berkas HTML Pertama
+- Struktur Dasar HTML
+- Identifikasi Elemen pada Halaman Website
+- Kuis Sub-modul Pengenalan HTML
+- Pendalaman HTML
+- HTML lebih Dalam
+- Atribut HTML
