@@ -146,6 +146,12 @@
 - Apa itu Branch
 - Latihan Membuat Branch Baru
 - Latihan Melakukan Perpindahan Branch
+- Apa itu merge
+- Apa itu pull request
+- latihan melakukan merge
+- Latihan menyelesaikan merge conflict
+- Rangkuman Git branches
+- kuis git branches
 
 ## Minggu, 07 Agustus 2022  
 ### Istirahat  
@@ -165,8 +171,25 @@
 - Kuis Git Branches
 #### Kolaborasi Dengan Tim
 - Apa Itu Code Reviews
+- apa itu fork
+- apa itu kolaborasi
+- apa itu squashing changes
+- kuis kolaborasi dengan tim
+- latihan berkolaborasi dengan tim
+- latihan berkolaborasi pada public repository
+- latihan melakukan code reviews
+- latihan melakukan revert
+- latihan melakukan squashing changes
+- pengantar kolaborasi dengan tim
+- rangkuman kolaborasi dengan tim
 #### Studi Kasus Kolaborasi Dengan Tim
--
+- kuis studi kasus kolaborasi dengan tim
+- membuat repository baru
+- menambahkan aturan mendaftar volunter
+- menangani pull request
+- menyalin repository
+- persiapan studi kasus kolaborasi dengan tim
+- rangkuman studi kasus kolaborasi dengan tim
 
 ## Selasa, 09 Agustus 2022  
 ### Belajar Dasar Git dengan GitHub  
@@ -227,3 +250,6 @@
 - Pendalaman HTML
 - HTML lebih Dalam
 - Atribut HTML
+
+## Rabu, 17 Agustus 2022  
+### Libur Kemerdekaan  
