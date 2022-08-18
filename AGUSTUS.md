@@ -194,9 +194,14 @@
 ## Selasa, 09 Agustus 2022  
 ### Belajar Dasar Git dengan GitHub  
 #### Github Sebagai Portfolio  
-- 
+- kuis github sebagai portofolio
+- latihan melihat portofolio para developer
+- latihan membuat portofolio menggunakan github
+- mengapa github menjadi portofolio para developer
+- pengantar github sebagai portofolio
+- rangkuman github sebagai portofolio
 #### Penutup  
-- 
+- rangkuman kelas ujian akhir
 ### Pengenalan ke Logika Pemrograman (Programming Logic 101)  
 #### Persiapan Belajar  
 - Persetujuan Hak Cipta
@@ -253,3 +258,23 @@
 
 ## Rabu, 17 Agustus 2022  
 ### Libur Kemerdekaan  
+
+## Kamis, 18 Agustus 2022  
+### Belajar Dasar Pemrograman Web  
+#### Pendalaman HTML  
+- HTML lebih Dalam
+- Atribut HTML
+- Paragraf
+- Heading
+- List
+- Menambahkan List pada Halaman Profil
+- Gambar
+- Menambahkan Gambar pada Halaman Profil
+- Teks Terformat
+- Anchor, Emphasized Text, Important Te...
+- Citation, Defining Terms, Subscript, ...
+- Menerapkan Anchor pada Navigasi Halam...
+- Semantic HTML - Mengorganisasikan Hal...
+- Header, Footer, Main dan Nav
+- Articles, Aside, dan Section
+- Generic Element
