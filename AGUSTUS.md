@@ -261,6 +261,7 @@
 
 ## Kamis, 18 Agustus 2022  
 ### Belajar Dasar Pemrograman Web  
+#### Mengikuti acara pisah sambut MSIB angkatan  2 dan 3 dari jam 13.00 - 14.20  
 #### Pendalaman HTML  
 - HTML lebih Dalam
 - Atribut HTML
@@ -278,3 +279,30 @@
 - Header, Footer, Main dan Nav
 - Articles, Aside, dan Section
 - Generic Element
+
+## Jumat, 19 Agustus 2022  
+### Belajar Dasar Pemrograman Web 
+#### Mengikuti acara technical briefing dicoding dari jam 08.00 - 10.00  
+#### Pendalaman HTML  
+- Mengorganisasikan Konten pada Halaman...
+- Menetapkan Elemen Header, Main, dan F...
+- Menggunakan Div, Aside, Article, dan ...
+- Table
+- Struktur Dasar Sebuah Tabel
+- Spanning Cell
+- Elemen dan Atribut pada Tabel
+- Menerapkan Elemen Tabel pada Halaman HTML
+- Special Character
+- Kuis Sub-modul Pendalaman HTML
+#### Pengenalan CSS   
+- Pengenalan ke Styling
+- Keuntungan dan Cara Kerja CSS
+- Memberikan Markup pada Dokumen
+- Menuliskan Aturan Styling
+- Melampirkan Styling pada Dokumen HTML
+- Menerapkan Styling Dasar pada Halaman HTML
+- Membuat Berkas CSS
+- Menulis Rules pada Berkas CSS
+- Menghubungkan Berkas CSS dengan HTML
+- CSS Conception
+- Kuis Sub-modul Pengenalan CSS
