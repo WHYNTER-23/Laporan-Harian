@@ -321,3 +321,22 @@
 - Font Weight, Font Style, Font Variant...
 - Text Styling: Line Height, Text Inden...
 - Text Styling: Text Decoration, Text
+
+## Minggu, 21 Agustus 2022  
+### Libur
+ 
+## Senin, 22 Agustus 2022  
+### Merawat ibu yang sakit mendadak
+### Membaca Personal Productivity - ILT dan pre-readings, tapi karena pre-readings menggunakan full english menjadikan saya tidak mengerti apa yang disampaikan
+### Berhasil memasukan Email dari DICODING di smartphone maupun di laptop
+### Berhasil memasukan Discord DICODING di laptop dan menyelesaikan welcome
+### Menyelesaikan Materi di Modul Pendalaman CSS pada kelas Belajar Dasar Pemrograman Web, sbb:
+- Menerapkan Font Styling pada Halaman Profile
+- Menggunakan Font dari Google Font
+- Menetapkan Ukuran, Ketebalan, dan Perataan Text pada Halaman Profile
+- Color
+- Menetapkan Nilai Warna
+- Text dan Background Color
+- Box Model
+- Box Element
+- Box Dimensions  
