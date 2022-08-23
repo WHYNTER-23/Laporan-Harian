@@ -340,3 +340,40 @@
 - Box Model
 - Box Element
 - Box Dimensions  
+
+## Selasa, 23 Agustus 2022  
+### Menyelesaikan Materi di Modul Pendalaman CSS pada kelas Belajar Dasar Pemrograman Web, sbb:  
+- Border
+- Padding
+- Margin
+- Centering Content
+- Display Roles
+- Box Shadow
+- Rounded Corner
+- Menerapkan Box Model pada Halaman Profil
+- Menetapkan ukuran pada gambar
+- Menerapkan Card Style pada Elemen Article
+- Menerapkan Jumbotron dan Navigasi pada Header
+- Menyesuaikan Padding dan Margin pada Body dan Elemen Main
+- Positioning
+- Perbedaan Static Flow dan Non-Static Flow
+- Normal Flow
+- Relative Positioning
+- Absolute Positioning
+- Fixed Positioning
+- Floating
+- Permasalahan Penerapan Float
+- Clear Property
+- Teknik Overflow
+- Menerapkan Positioning dan Float pada Halaman Profile
+- Menetapkan Float pada Content dan Aside
+- Menambahkan meta tag viewport
+- Media Query
+- Membuat Sticky Navigation
+- Memperbaiki CSS
+- Kuis Sub-modul Pendalaman CSS
+
+### Menyelesaikan Materi di Modul Layout Responsif Menggunakan Flexbox pada kelas Belajar Dasar Pemrograman Web, sbb:  
+- Perkenalan Layout Responsif menggunakan Flexbox
+- Flexible Box Model
+- Flex Container
