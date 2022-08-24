@@ -377,3 +377,24 @@
 - Perkenalan Layout Responsif menggunakan Flexbox
 - Flexible Box Model
 - Flex Container
+
+## Selasa, 23 Agustus 2022  
+### Menyelesaikan materi di Modul Layout Responsif Menggunakan Flexbox pada kelas Belajar Dasar Pemrograman Web, sbb :
+- Flex Grow
+- Flex Direction
+- Flexible Basis
+- Latihan - Membuat Layout Kalkulator: Membuat Struktur HTML Kalkulator
+- Latihan - Menerapkan Flexbox pada Halaman Kalkulator
+- Latihan - Mempercantik Tampilan Kalkulator
+- Tampilan Responsif pada Mobile
+- Kuis Sub-modul Layout Responsif menggunakan Flexbox
+
+### Menyelesaikan materi di JavaScript Basic dan Manipulasi DOM pada kelas Belajar Dasar Pemrograman Web, sbb :
+- JavaScript Basic dan Manipulasi DOM
+- Perkenalan JavaScript And DOM
+- Menuliskan Syntax Javascript pada HTML
+- Membuat Berkas JavaScript Pertama
+- Dasar JavaScript
+- Statement
+- Comment
+- Variabel
