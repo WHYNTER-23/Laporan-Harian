@@ -378,7 +378,7 @@
 - Flexible Box Model
 - Flex Container
 
-## Selasa, 23 Agustus 2022  
+## Rabu, 24 Agustus 2022  
 ### Menyelesaikan materi di Modul Layout Responsif Menggunakan Flexbox pada kelas Belajar Dasar Pemrograman Web, sbb :
 - Flex Grow
 - Flex Direction
@@ -398,3 +398,23 @@
 - Statement
 - Comment
 - Variabel
+## Kamis, 25 Agustus 2022  
+### Menyelesaikan materi di JavaScript Basic dan Manipulasi DOM pada kelas Belajar Dasar Pemrograman Web, sbb :  
+- Tipe Data
+- Arrays dan Objek
+- Operator Penugasan
+- Operator Komparasi
+- If/Else Statement
+- Loop
+- Function
+- Variabel Scope
+- Mode Strict pada JavaScript
+- Browser Object
+- Manipulasi DOM
+- Mendapatkan Elemen
+- Memanipulasi Atribut Elemen
+- Memanipulasi Konten Elemen
+- Membuat dan Menambahkan Elemen Baru
+- Menambahkan Aksi (Event) pada Elemen
+- Menerapkan JavaScript pada Web Kalkulator
+- Kuis Sub-modul JavaScript Basic
