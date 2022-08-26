@@ -418,3 +418,13 @@
 - Menambahkan Aksi (Event) pada Elemen
 - Menerapkan JavaScript pada Web Kalkulator
 - Kuis Sub-modul JavaScript Basic
+## Jumat, 26 Agustus 2022  
+### Menyelesaikan materi di Web Storage pada kelas Belajar Dasar Pemrograman Web, sbb :  
+- Tipe Web Storage
+- Latihan - Menambahkan Riwayat Kalkulasi pada Web Kalkulator
+- Latihan - Menerapkan Styling pada Tabel Riwayat Web Kalkulator
+- Latihan - Menerapkan localStorage pada Web Kalkulator
+- Kuis Sub-modul Web Storage
+
+### Selesai mengerjakan Ujian Akhir  
+### Sedang mengerjakan submission  
