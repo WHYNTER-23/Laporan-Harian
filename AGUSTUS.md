@@ -418,6 +418,7 @@
 - Menambahkan Aksi (Event) pada Elemen
 - Menerapkan JavaScript pada Web Kalkulator
 - Kuis Sub-modul JavaScript Basic
+
 ## Jumat, 26 Agustus 2022  
 ### Menyelesaikan materi di Web Storage pada kelas Belajar Dasar Pemrograman Web, sbb :  
 - Tipe Web Storage
@@ -426,5 +427,20 @@
 - Latihan - Menerapkan localStorage pada Web Kalkulator
 - Kuis Sub-modul Web Storage
 
-### Selesai mengerjakan Ujian Akhir  
+## Sabtu, 27 Agustus 2022  
 ### Sedang mengerjakan submission  
+
+## Minggu, 28 Agustus 2022  
+### Sedang mengerjakan submission  
+
+## Senin, 29 Agustus 2022  
+### Menyelesaikan Submission  
+### Mengerjakan SIB 3 ILT Quiz Soft Skills  
+### Mengerjakan materi pada modul Persiapan Belajar dikelas Belajar Membuat Front-End Web untuk Pemula, sbb:  
+- Persetujuan Hak Cipta
+- Prasyarat Kemampuan
+- Prasyarat Tools
+- Mekanisme Belajar
+- Forum Diskusi
+- Glosarium
+- Daftar Referensi
