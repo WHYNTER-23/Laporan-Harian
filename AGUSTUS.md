@@ -444,3 +444,23 @@
 - Forum Diskusi
 - Glosarium
 - Daftar Referensi
+
+## Selasa, 30 Agustus 2022  
+### Mengerjakan materi pada modul Dasar Javascript dikelas Belajar Membuat Front-End Web untuk Pemula, sbb:  
+- Pendahuluan Dasar JavaScript
+- Apa itu JavaScript
+- Sejarah JavaScript
+- Mengenal Statement dan Expression dengan Menulis Kode JavaScript Pertama
+- Komentar
+- Variabel
+- Tipe Data
+- Kuis Coding : Variabel dan Tipe Data
+- Operator
+- If/Else Statement
+- Switch Case Statement
+- Kuis Coding : Logika Operator dan If Else
+- Perulangan
+- Object
+- Kuis Coding : Object
+### Mengikuti acara ILT-SS-01-P dari jam 18.30 - 20.36 
+
