@@ -464,3 +464,20 @@
 - Kuis Coding : Object
 ### Mengikuti acara ILT-SS-01-P dari jam 18.30 - 20.36 
 
+## Rabu, 31 Agustus 2022  
+### Mengerjakan materi pada modul Dasar Javascript dikelas Belajar Membuat Front-End Web untuk Pemula, sbb:  
+- Array
+- Kuis Coding : Array
+- Deklarasi Fungsi
+- Expression Function
+- Kuis Coding : Function
+- Ikhtisar Dasar JavaScript
+- Kuis JavaScript Dasar
+### Mengerjakan materi pada modul Browser Object Model, Document Object Model,  dan Event dikelas Belajar Membuat Front-End Web untuk Pemula, sbb:  
+- Pengenalan Browser Object Model, Document Object Model, dan Event
+- Cara JavaScript Mengontrol Website dan browser
+- Menambahkan JavaScript di Website
+- Browser Environment
+- Pendahuluan Browser Object Model (BOM)
+- Anggota BOM: alert()
+- Anggota BOM: prompt()
