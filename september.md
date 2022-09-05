@@ -31,3 +31,18 @@
 - Input Event - onChange, onCopy, dan onPaste
 - Input Event - Hasil Akhir
 ### Mengikuti acara ILT-FEBE-01-C dari jam 18.30 - 20.40
+
+## Senin, 05 September 2022  
+### Membaca materi pada modul Browser Object Model, Document Object Model,  dan Event dikelas Belajar Membuat Front-End Web untuk Pemula, sbb:
+- Membuat Aplikasi Todo Apps
+- Mengunduh Starter Project, Membuat Berkas JavaScript, dan Menampilkan Todo pada Console
+- Menampilkan Item Todo dan Menandai Todo
+- Menampilkan Item Todo yang Selesai dan Menghapus Todo
+- Ikhtisar Browser Object Model, Document Object Model, dan Event
+- Kuis Browser Object Model, Document Object Model, dan Event
+### Membaca materi pada modul Web Storage dikelas Belajar Membuat Front-End Web untuk Pemula, sbb:
+- Pengenalan Web Storage
+- Pengertian dan Fungsi Web Storage
+- Macam-Macam Web Storage dan Cara Mengetahui Dukungan Web Storage
+- Local Storage
+- Session Storage
