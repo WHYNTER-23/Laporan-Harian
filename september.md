@@ -46,3 +46,8 @@
 - Macam-Macam Web Storage dan Cara Mengetahui Dukungan Web Storage
 - Local Storage
 - Session Storage
+
+## Selasa, 06 September 2022  
+### Mengikuti ILT-SS-02-D dari jam 09.00 - 11.00 WIB
+### Membaca materi pada modul Web Storage dikelas Belajar Membuat Front-End Web untuk Pemula, sbb:
+- Implementasi Web Storage - Menambahkan Item Storage
