@@ -51,3 +51,18 @@
 ### Mengikuti ILT-SS-02-D dari jam 09.00 - 11.00 WIB
 ### Membaca materi pada modul Web Storage dikelas Belajar Membuat Front-End Web untuk Pemula, sbb:
 - Implementasi Web Storage - Menambahkan Item Storage
+
+## Rabu, 07 September 2022  
+### Membaca materi pada modul Web Storage dikelas Belajar Membuat Front-End Web untuk Pemula, sbb:
+- Implementasi Web Storage - Mengakses Item Storage
+- Implementasi Web Storage - Memodifikasi Item Storage
+- Implementasi Web Storage - Menghapus Item Storage
+- Implementasi Web Storage - Menyimpan Data Kompleks pada Storage menggunakan objek JSON
+- Mengimplementasikan Web Storage ke Proyek Todo Apps
+- Menambahkan Metode Manipulasi Data Web Storage
+- Menambahkan Fungsi Memuat Data Ketika Todo Apps Dibuka
+- Tantangan!
+- Ikhtisar Web Storage
+- Kuis Web Storage
+### Menyelesaikan materi pada modul penutup dikelas Belajar Membuat Front-End Web untuk Pemula, sbb:
+- Ujian Akhi
