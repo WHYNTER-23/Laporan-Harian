@@ -65,4 +65,9 @@
 - Ikhtisar Web Storage
 - Kuis Web Storage
 ### Menyelesaikan materi pada modul penutup dikelas Belajar Membuat Front-End Web untuk Pemula, sbb:
-- Ujian Akhi
+- Ujian Akhir
+
+## Kamis, 08 September 2022  
+### Mengikuti acara Sosialisasi Platform dan Basic Soft Skill Magang & Studi Independen Bersertifikat (MSIB) Angkatan 3 DARI JAM 09.00 - 11.40
+### Mengikuti Konsultasi mingguan 02 dari jam 16.30 - 17.30
+### Mengerjakan Submission 
